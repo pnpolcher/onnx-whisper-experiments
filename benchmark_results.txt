@@ -1,0 +1,38 @@
+
+
+m7i.2xlarge
+
+(10 inferences)
+
+Original inference time: 1.7882176
+Quantized inference time: 1.2037733
+
+(30 inferences)
+
+Original inference time: 1.8926091999999999
+Quantized inference time: 1.211583
+
+m7g.2xlarge
+
+(10 inferences)
+
+Original inference time: 3.9790909999999995
+Quantized inference time: 1.235868
+
+(30 inferences)
+
+Original inference time: 3.928877
+Quantized inference time: 1.2416309
+
+
+laptop
+
+quantized
+
+Original inference time: 4.7632384000000005
+Quantized inference time: 3.7619108
+
+optimized + quantized
+
+Original inference time: 4.3211397
+Quantized inference time: 3.074472
